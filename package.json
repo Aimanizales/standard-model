@@ -1,0 +1,21 @@
+{
+  "name": "standard-model",
+  "version": "1.0.0",
+  "description": "Interactive graphic to explore the different particles that make up the building blocks of our universe.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "gulp"
+  },
+  "keywords": [
+    "physics"
+  ],
+  "author": "Aiman Abdel-Samad",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^3.9.1"
+  },
+  "dependencies": {
+    "vue": "^2.4.2"
+  }
+}
