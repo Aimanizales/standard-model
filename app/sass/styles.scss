@@ -1,0 +1,50 @@
+html{
+  border: 0;
+  margin: 0;
+}
+
+body{
+  background-color: #030933;
+  text-align: center;
+  font-family: 'Titillium Web', sans-serif;
+  font-size: 16px;
+}
+
+header{
+  background-color: #7e5bf3;
+
+  h1{
+    border: 0;
+    font-weight: 400;
+    padding: 1rem; 
+    margin: 0;
+  }
+}
+
+.standard-model{
+  width: 100%;
+  height: auto;
+  max-width: 700px;
+}
+
+.boson,
+.fermion{
+  cursor: pointer;
+  transition: all 0.15s;
+
+  &:hover{
+    opacity: 0.5;
+  }
+}
+
+.st1{fill:#1E3254;}
+.st2{font-family:'TitilliumWeb-SemiBold';}
+.st4{font-family:'TitilliumWeb-Regular';}
+.st9{font-family:'MyriadPro-Regular';}
+.st5{font-size:56.4848px;}
+.st11{font-size:60.5195px;}
+.st13{font-size:22.5939px;}
+.higgs_gradient{fill:url(#higgs_gradient);}
+.gauge_gradient{fill:url(#gauge_gradient);}
+.lepton_gradient{fill:url(#lepton_gradient);}
+.quark_gradient{fill:url(#quark_gradient);}
