@@ -5,14 +5,14 @@ The complete Standard Model took a long time to build. Physicist J.J. Thomson di
 Use this interactive graphic to explore the different particles that make up the building blocks of our universe.
 
 ## Referents: 
-Videos:
 
-https://www.youtube.com/watch?v=I3jtzXr69GY
-https://www.youtube.com/watch?v=Ick4_XRC9oQ&feature=share
+Videos:
+- https://www.youtube.com/watch?v=I3jtzXr69GY
+- https://www.youtube.com/watch?v=Ick4_XRC9oQ&feature=share
 
 Graphics:
-https://molasaber.org/2016/06/12/particulas-fundamentales-del-modelo-estandar/
-http://www.symmetrymagazine.org/standard-model/
+- https://molasaber.org/2016/06/12/particulas-fundamentales-del-modelo-estandar/
+- http://www.symmetrymagazine.org/standard-model/
 
 Information:
-https://en.wikipedia.org/wiki/Standard_Model 
+- https://en.wikipedia.org/wiki/Standard_Model 
